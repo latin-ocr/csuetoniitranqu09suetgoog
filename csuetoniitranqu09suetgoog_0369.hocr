@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./csuetoniitranqu09suetgoog_0369.png"; bbox 0 0 3050 5004; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 635 4105 1260 4160">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 635 4105 1260 4160">
+     <span class='ocr_line' id='line_1_1' title="bbox 635 4105 1260 4160; baseline 0.003 -11"><span class='ocrx_word' id='word_1_1' title='bbox 635 4119 790 4160; x_wconf 43' lang='grc' dir='ltr'><strong>ψη.»</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 807 4105 1260 4150; x_wconf 58' lang='lat' dir='ltr'><strong>,mx-17*—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 873 4191 2513 4282">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 873 4191 2513 4282">
+     <span class='ocr_line' id='line_1_2' title="bbox 873 4191 2513 4282; baseline 0.002 -28"><span class='ocrx_word' id='word_1_3' title='bbox 873 4191 1350 4270; x_wconf 66' lang='lat' dir='ltr'><strong>numoTnkQuF.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1384 4212 1719 4273; x_wconf 58' lang='lat' dir='ltr'><strong>cmssmmff:</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1756 4213 2195 4282; x_wconf 66' lang='lat' dir='ltr'><strong>1.AT1N1·:.p.u·xf:</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2219 4215 2513 4261; x_wconf 57' lang='lat' dir='ltr'><strong>nmmum-¹..</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
